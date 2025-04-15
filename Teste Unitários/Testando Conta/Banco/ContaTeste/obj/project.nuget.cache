@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3yIijx0k0SwUZRQy7jn0zlcA5ovW8fu0hP4wc445XPxaINE8m32s/6ZnGlegF5JxV+fCc4/cxpPBXRzyOnVl/g==",
+  "dgSpecHash": "si9uo31lfF5Ml//Cu3O0zH30iLi7XlzWkUJ1dJ9uAdW6i5KOkoKdEJT4IZbn42sRBse6QrW4wG6UQEWNZpWhag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\Documents\\Henrique\\Henrique\\CURSOS\\Teste Unitários\\Testando Conta\\Banco\\ContaTeste\\ContaTeste.csproj",
+  "projectFilePath": "C:\\Users\\henri\\Documents\\Henrique\\Github - repositorios\\Testes Unitários\\Testes-unit-rios-em-C-com-NUnit-e-Moq\\Teste Unitários\\Testando Conta\\Banco\\ContaTeste\\ContaTeste.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

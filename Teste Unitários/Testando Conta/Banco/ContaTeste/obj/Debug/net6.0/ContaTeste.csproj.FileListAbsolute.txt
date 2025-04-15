@@ -16,3 +16,21 @@ C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Cont
 C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.pdb
 C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.genruntimeconfig.cache
 C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ref\ContaTeste.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\bin\Debug\net6.0\ContaTeste.exe
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\bin\Debug\net6.0\ContaTeste.deps.json
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\bin\Debug\net6.0\ContaTeste.runtimeconfig.json
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\bin\Debug\net6.0\ContaTeste.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\bin\Debug\net6.0\ContaTeste.pdb
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\bin\Debug\net6.0\Conta.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\bin\Debug\net6.0\Conta.pdb
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.AssemblyInfo.cs
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.csproj.CopyComplete
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\refint\ContaTeste.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.pdb
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ContaTeste.genruntimeconfig.cache
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\obj\Debug\net6.0\ref\ContaTeste.dll

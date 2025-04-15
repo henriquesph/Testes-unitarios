@@ -9,3 +9,14 @@ C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Cont
 C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\refint\Conta.dll
 C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\Conta.pdb
 C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\ref\Conta.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\bin\Debug\net6.0\Conta.deps.json
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\bin\Debug\net6.0\Conta.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\bin\Debug\net6.0\Conta.pdb
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\Conta.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\Conta.AssemblyInfo.cs
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\Conta.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\Conta.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\refint\Conta.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\Conta.pdb
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\Conta\obj\Debug\net6.0\ref\Conta.dll

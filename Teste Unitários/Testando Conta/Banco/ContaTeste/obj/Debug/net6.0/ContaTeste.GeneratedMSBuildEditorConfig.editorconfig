@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContaTeste
-build_property.ProjectDir = C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Conta\Banco\ContaTeste\
+build_property.ProjectDir = C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste\

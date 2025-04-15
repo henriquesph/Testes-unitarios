@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4E6+ifWZF0TLwweRMT/Z9nIGeVl8N2jZh4vd5S6ERY+9syCAQ8gHr+8HhRcD4nywhcJ1unqKimGBgU7iqFmIQ==",
+  "dgSpecHash": "awXTjbwoDNHtnRzqe9/wopc2v5vMkGSZdbZEihw5WxoIA7subwvNdhmrKaZrr50RKRBvGrRWOcR+AOo57O9z6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\Documents\\Henrique\\Henrique\\CURSOS\\Teste Unitários\\Testando Conta\\Banco\\ContaTeste.NUnit\\ContaTeste.NUnit.csproj",
+  "projectFilePath": "C:\\Users\\henri\\Documents\\Henrique\\Github - repositorios\\Testes Unitários\\Testes-unit-rios-em-C-com-NUnit-e-Moq\\Teste Unitários\\Testando Conta\\Banco\\ContaTeste.NUnit\\ContaTeste.NUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henri\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\henri\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
