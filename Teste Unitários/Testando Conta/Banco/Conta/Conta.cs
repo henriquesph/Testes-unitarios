@@ -23,11 +23,15 @@
 
         public bool Sacar(decimal valor)
         {
+            //Thread.Sleep(5000);
+
             if(valor <= 0)
             {
                 return false;
+
+                //throw new ArgumentOutOfRangeException();
             }
-            if(saldo < valor)
+            if (saldo < valor)
             {
                 return false;
             }

@@ -101,8 +101,8 @@ C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Cont
 C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Conta\Banco\ContaTeste.NUnit\obj\Debug\net6.0\ContaTeste.NUnit.genruntimeconfig.cache
 C:\Users\henri\Documents\Henrique\Henrique\CURSOS\Teste Unitários\Testando Conta\Banco\ContaTeste.NUnit\obj\Debug\net6.0\ref\ContaTeste.NUnit.dll
 C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste.NUnit\bin\Debug\net6.0\CoverletSourceRootsMapping
-C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste.NUnit\bin\Debug\net6.0\testhost.exe
 C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste.NUnit\bin\Debug\net6.0\testhost.dll
+C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste.NUnit\bin\Debug\net6.0\testhost.exe
 C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste.NUnit\bin\Debug\net6.0\NUnit3.TestAdapter.dll
 C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste.NUnit\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
 C:\Users\henri\Documents\Henrique\Github - repositorios\Testes Unitários\Testes-unit-rios-em-C-com-NUnit-e-Moq\Teste Unitários\Testando Conta\Banco\ContaTeste.NUnit\bin\Debug\net6.0\nunit.engine.dll

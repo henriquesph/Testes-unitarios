@@ -23,15 +23,19 @@ namespace ContaTeste.Unit
 
 
         [Test]
-        public void testSacar()
+        [Category("Principal")]
+        [TestCase(120, true)]
+        [TestCase(-120, false)]
+        public void testSacar(int valor, bool resultadoEsperado)
         {
 
-            bool resultado = conta.Sacar(120);
+            bool resultado = conta.Sacar(valor);
 
-            Assert.IsTrue(resultado);
+            Assert.IsTrue(resultado == resultadoEsperado);
         }
 
         [Test]
+        [Category("Principal")]
         public void testSacarSemSaldo()
         {
             bool resultado = conta.Sacar(250);
@@ -39,13 +43,39 @@ namespace ContaTeste.Unit
             Assert.IsFalse(resultado);
         }
 
-        //[Test]
+        [Test]
         //[Ignore("Pendência de implementação da Regra de negócio 02")]
-        public void testSacarValorNegativo()
+        [Category("Valores Inválidos")]
+        [TestCase(-100)] //passa vários valores como atributo do teste (int valor)
+        [TestCase(-9)]
+        [TestCase(-920)]
+        [TestCase(-4715)]
+        public void testSacarValorNegativo(int valor)
         {
-            bool resultado = conta.Sacar(-100);
-
+            bool resultado = conta.Sacar(valor);
             Assert.IsFalse(resultado);
+
+            //Assert.Throws<ArgumentOutOfRangeException>(delegate { conta.Sacar(-100); }); // Teste de Exception
+
+            //Assert.Catch<Exception>(delegate { conta.Sacar(-100); });
+        }
+
+        [Test]
+        [Category("Valores Inválidos")]
+        public void testSacarValorZero()
+        {
+            bool resultado = conta.Sacar(0);
+            Assert.IsFalse(resultado);
+
+        }
+
+        [Test]
+        [Timeout(4000)]
+        public void testMetodoLento()
+        {
+            bool resultado = conta.Sacar(0);
+            Assert.IsFalse(resultado);
+
         }
     }
 }
