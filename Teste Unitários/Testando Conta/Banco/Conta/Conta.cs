@@ -4,12 +4,20 @@
     {
         private String cpf;
         private Decimal saldo;
+        private IValidadorCredito validadorCredito; // receber qualquer objeto que implemente a interface
 
         public Conta(String cpf, decimal valor)
         {
             this.cpf = cpf;
             this.saldo = valor;
         }
+        
+        // injeção por método, poderia fazer também por construtor
+        public void SetValidadorCredito(IValidadorCredito validador)
+        {
+            this.validadorCredito = validador;
+        }
+
 
         public decimal getSaldo()
         {
@@ -38,6 +46,17 @@
 
             this.saldo -= valor;
             return true;
+        }
+
+        public bool SolicitarEmprestimo(decimal valor)
+        {
+            bool resultado = validadorCredito.ValidarCredito(this.cpf, valor);
+
+            if (resultado)
+            {
+                this.saldo += valor; 
+            }
+            return resultado;
         }
     }
 }
